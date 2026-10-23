@@ -1,0 +1,5 @@
+# ikstro.com — open to every crawler, AI search included (the site has /llms.txt for them)
+User-agent: *
+Allow: /
+
+Sitemap: https://ikstro.com/sitemap-index.xml

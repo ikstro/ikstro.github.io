@@ -2,6 +2,8 @@
 
 > Design Automation Engineer · Product Design Technologist, Odesa, Ukraine. Designer since 1997 who now builds the systems behind design work: AI-agent pipelines (Claude Code harnesses), design systems on tokens, and production front ends delivered through AI agents. Five years in airline products: booking used by 20+ airlines, a customer data platform, white-label booking and websites. He sets the architecture, the structure and the checks; agents write the code. Works remotely across time zones, in English.
 
+Also written as: Євген Пешинський, Евгений Пешинский, Yevhen Peshinskyi, Evgeniy Peshinskiy.
+
 ## CV
 
 - [CV page, English](https://ikstro.com/cv/): one column, the same text as the files below
