@@ -1,0 +1,31 @@
+# Yevhen Peshynskyi (ikstro)
+
+> Design Automation Engineer · Product Design Technologist, Odesa, Ukraine. Designer since 1997 who now builds the systems behind design work: AI-agent pipelines (Claude Code harnesses), design systems on tokens, and production front ends delivered through AI agents. Five years in airline products: booking used by 20+ airlines, a customer data platform, white-label booking and websites. He sets the architecture, the structure and the checks; agents write the code. Works remotely across time zones, in English.
+
+## CV
+
+- [CV page, English](https://ikstro.com/cv/): one column, the same text as the files below
+- [CV, English, PDF](https://ikstro.com/cv/Yevhen-Peshynskyi-CV-EN.pdf)
+- [CV, English, DOCX](https://ikstro.com/cv/Yevhen-Peshynskyi-CV-EN.docx)
+- [CV, English, plain text](https://ikstro.com/cv/Yevhen-Peshynskyi-CV-EN.txt)
+- [CV, English, JSON Resume](https://ikstro.com/resume.json)
+- [CV, Ukrainian: page](https://ikstro.com/uk/cv/), [PDF](https://ikstro.com/cv/Yevhen-Peshynskyi-CV-UA.pdf), [DOCX](https://ikstro.com/cv/Yevhen-Peshynskyi-CV-UA.docx), [JSON Resume](https://ikstro.com/uk/resume.json)
+
+## Selected work
+
+- Paximizer CDP (2023–now, in production): a customer data platform for airlines built by AI agents instead of Figma; a Claude Code harness of 5 agents and 13 skills; 96 design-system components, 1,309 Storybook stories; a tester skill that walks every flow by role.
+- NewSky (2026, in progress): one booking engine for any airline; 5 agents and 32 skills; one contract for any backend (28 capabilities); an airline styled in a day from one JSON; next, a front end that adapts to each passenger from Paximizer CDP advice.
+- PAX Pitch (2026): a presentation and content studio that researches, plans, builds decks and video, and publishes with approvals in Telegram.
+- Web and promo design: paximizer.com, wind2ride.app and the WebSky Tech promo site.
+- Wind2Ride (2025–now): his own route planner for cyclists that reads the wind; App Store and Google Play; 600+ riders; built solo.
+- Tools: Muse (Claude Code skill, open source), Language Tutor (open source), Chameleon and Follow the Path (Figma plugins), claude-commit (VS Code).
+- PAX-KB: a knowledge base for AI agents: RAG over 10,005 fragments, an MCP server with 8 tools.
+- Earlier, at WebSkyTech (websky.tech, 2021–2023): the WX booking engine (booking products used by 20+ airlines; +5% conversion in an A/B test, preliminary), a white-label airline website, CDP v1.
+
+## Contact
+
+- Email: hello@ikstro.com
+- LinkedIn: https://linkedin.com/in/ikstro
+- GitHub: https://github.com/ikstro
+- Behance: https://behance.net/ikstro
+- Telegram: https://t.me/ikstro

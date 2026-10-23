@@ -1,0 +1,125 @@
+Yevhen Peshynskyi
+Design Automation Engineer · Product Design Technologist
+Odesa, Ukraine · hello@ikstro.com · ikstro.com · linkedin.com/in/ikstro · github.com/ikstro ·
+behance.net/ikstro · t.me/ikstro
+
+
+SUMMARY
+
+Designer since 1997 who now builds the systems behind design work: AI-agent pipelines, design
+systems on tokens, and production front ends delivered through Claude Code. Five years in airline
+products: booking used by 20+ airlines, a customer data platform, white-label booking and websites.
+I set the architecture, the structure and the checks; agents write the code. I work remotely with
+product and engineering teams across time zones, in English.
+
+
+EXPERIENCE
+
+Product Design Technologist — Paximizer
+2023–present · paximizer.com
+Customer data platform and AI products for airlines. I lead the front-end architecture in a team of
+five and run design and delivery through AI agents.
+
+Paximizer CDP (in production)
+- Set up a Claude Code harness of 5 agents and 13 skills: research, an HTML prototype in two
+  variants, a choice, production code on the architecture and the design system, AI QA.
+- Built the design system in code: 96 components in 3 tiers (base, domain, AI) and 1,309 Storybook
+  stories, with no Figma in the loop.
+- About half of the front end came out of my agent sessions (393 of 777 commits).
+- Built a tester skill that walks every flow as a real client, role by role: in the last comparison
+  it caught 70% of what a human tester found, and the human missed 80% of what it found.
+
+NewSky, a booking engine for any airline (solo, in progress)
+- Built solo with a harness of 5 agents and 32 skills; 1,368 tests.
+- One contract for any airline backend: the front end checks 28 capabilities and hides what the
+  backend cannot serve.
+- An admin with per-airline component variants; an airline's whole style is one JSON file, so a new
+  airline is styled in a day.
+- Designing the next step: a front end that adapts to each passenger, composed from Paximizer CDP
+  advice.
+
+PAX Pitch, a presentation and content studio
+- Weekly topic research, a two-week content plan, decks with 65 slide types, narration and video,
+  approvals in Telegram and cross-posting to paximizer.com (358 of 369 commits).
+
+PAX-KB, a knowledge base for AI agents
+- Documented the legacy front end and back end, indexed 10,005 fragments into a RAG and built an MCP
+  server with 8 tools for 27 agents.
+
+paximizer.com
+- Moved the marketing site from Webflow to Astro and kept all 91 legacy URLs.
+
+Lead Product Designer — WebSkyTech
+2021–2023 · websky.tech
+Booking and customer-data products for airlines, designed in Figma.
+- WX booking engine: search, fares, seats, ancillaries and payment within airline constraints (PNR,
+  SSR, fare rules, baggage); booking products used by 20+ airlines.
+- Moved brand customization from manual restyling to tokenized multi-brand theming; 400+
+  customizable components.
+- A redesigned booking flow showed +5% conversion in an A/B test (preliminary).
+- White-label airline website: 20+ wireframe screens tested, semantic tokens with light and dark
+  themes, a component library with variants and a page constructor; 26 screens across 4 breakpoints.
+- Customer data platform (CDP v1): designed on real API models and taken from MVP to production:
+  profiles, loyalty, campaigns, support, monitoring.
+
+Lead Web Designer — Cloudlessons / freelance
+2010–2021
+- Led design for education platforms with millions of monthly visits: product UI, dashboards,
+  personal accounts, landing pages and email marketing.
+
+Graphic Designer — Freelance and agencies
+1997–2010
+- Print and web for ad agencies, TV and radio companies and printing houses: branding, outdoor,
+  layout and typography.
+
+
+PROJECTS
+
+Wind2Ride
+A route planner for cyclists that reads the wind. Solo product, 2025 to present. · wind2ride.app
+- Took it from idea to the App Store and Google Play alone: research, design, an AI-assisted build,
+  beta tests with in-app reports, releases.
+- 600+ riders, 10 API integrations, 415+ commits, 9 releases; clubs and group rides.
+
+Tools and open source
+Skills, plugins and extensions built for real, repeated work. · github.com/ikstro
+- Muse: a Claude Code skill that finds a design direction and builds it within the design system;
+  open source; designed this site.
+- Language Tutor: a Claude Code plugin and VS Code panel that turns coding sessions into language
+  lessons; open source.
+- Chameleon and Follow the Path: Figma plugins on Figma Community. claude-commit: a VS Code
+  extension.
+
+
+SKILLS
+
+Hard skills
+- AI agents & harnesses: Claude Code harnesses: agents, skills, hooks, MCP servers, RAG.
+- Front end with AI agents: I set the architecture, the structure and the checks; agents write the
+  code (Vue, React Native, Astro, TypeScript).
+- Product design: UX/UI, information architecture, data-heavy enterprise interfaces, booking flows,
+  composition, typography.
+- Design systems: Design tokens, semantic theming, multi-brand and white-label systems, component
+  libraries, Storybook.
+- Design tools: Figma, Token Studio, Photoshop, Illustrator, InDesign.
+- Automation & work tracking: Workflows, tasks and time: from self-built databases to Notion and
+  trackers.
+
+Soft skills
+- Talking to AI: Briefs with context and constraints that get the result in a few turns.
+- Knowing what not to hand to AI: AI where it pays off; a ready-made engine, a script or a drawing
+  where it doesn't; animation only where it explains something.
+- Owning the problem: From the first question to the shipped thing; remote, across time zones, in
+  English.
+
+Keywords: Design Engineer, Design Technologist, Design Systems, Design Tokens, Token Studio, Figma,
+Storybook, Claude Code, AI agents, agentic workflows, MCP, RAG, prototyping, UX/UI, enterprise SaaS,
+airline and travel tech, booking engine, CDP, multi-brand theming, white label, Vue, React Native,
+Astro
+
+
+LANGUAGES
+
+- Ukrainian — Native
+- Russian — Native
+- English — B1–B2, working written communication

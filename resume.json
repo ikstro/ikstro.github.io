@@ -1,0 +1,217 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Yevhen Peshynskyi",
+    "label": "Design Automation Engineer · Product Design Technologist",
+    "image": "https://ikstro.com/media/person/photo-800.webp",
+    "email": "hello@ikstro.com",
+    "url": "https://ikstro.com",
+    "summary": "Designer since 1997 who now builds the systems behind design work: AI-agent pipelines, design systems on tokens, and production front ends delivered through Claude Code. Five years in airline products: booking used by 20+ airlines, a customer data platform, white-label booking and websites. I set the architecture, the structure and the checks; agents write the code. I work remotely with product and engineering teams across time zones, in English.",
+    "location": {
+      "city": "Odesa",
+      "region": "Ukraine",
+      "countryCode": "UA"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ikstro",
+        "url": "https://linkedin.com/in/ikstro"
+      },
+      {
+        "network": "GitHub",
+        "username": "ikstro",
+        "url": "https://github.com/ikstro"
+      },
+      {
+        "network": "Behance",
+        "username": "ikstro",
+        "url": "https://behance.net/ikstro"
+      },
+      {
+        "network": "Telegram",
+        "username": "ikstro",
+        "url": "https://t.me/ikstro"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Paximizer",
+      "position": "Product Design Technologist",
+      "url": "https://paximizer.com",
+      "startDate": "2023",
+      "summary": "Customer data platform and AI products for airlines. I lead the front-end architecture in a team of five and run design and delivery through AI agents.",
+      "highlights": [
+        "Paximizer CDP (in production): Set up a Claude Code harness of 5 agents and 13 skills: research, an HTML prototype in two variants, a choice, production code on the architecture and the design system, AI QA.",
+        "Paximizer CDP (in production): Built the design system in code: 96 components in 3 tiers (base, domain, AI) and 1,309 Storybook stories, with no Figma in the loop.",
+        "Paximizer CDP (in production): About half of the front end came out of my agent sessions (393 of 777 commits).",
+        "Paximizer CDP (in production): Built a tester skill that walks every flow as a real client, role by role: in the last comparison it caught 70% of what a human tester found, and the human missed 80% of what it found.",
+        "NewSky, a booking engine for any airline (solo, in progress): Built solo with a harness of 5 agents and 32 skills; 1,368 tests.",
+        "NewSky, a booking engine for any airline (solo, in progress): One contract for any airline backend: the front end checks 28 capabilities and hides what the backend cannot serve.",
+        "NewSky, a booking engine for any airline (solo, in progress): An admin with per-airline component variants; an airline's whole style is one JSON file, so a new airline is styled in a day.",
+        "NewSky, a booking engine for any airline (solo, in progress): Designing the next step: a front end that adapts to each passenger, composed from Paximizer CDP advice.",
+        "PAX Pitch, a presentation and content studio: Weekly topic research, a two-week content plan, decks with 65 slide types, narration and video, approvals in Telegram and cross-posting to paximizer.com (358 of 369 commits).",
+        "PAX-KB, a knowledge base for AI agents: Documented the legacy front end and back end, indexed 10,005 fragments into a RAG and built an MCP server with 8 tools for 27 agents.",
+        "paximizer.com: Moved the marketing site from Webflow to Astro and kept all 91 legacy URLs."
+      ]
+    },
+    {
+      "name": "WebSkyTech",
+      "position": "Lead Product Designer",
+      "url": "https://websky.tech",
+      "startDate": "2021",
+      "endDate": "2023",
+      "summary": "Booking and customer-data products for airlines, designed in Figma.",
+      "highlights": [
+        "WX booking engine: search, fares, seats, ancillaries and payment within airline constraints (PNR, SSR, fare rules, baggage); booking products used by 20+ airlines.",
+        "Moved brand customization from manual restyling to tokenized multi-brand theming; 400+ customizable components.",
+        "A redesigned booking flow showed +5% conversion in an A/B test (preliminary).",
+        "White-label airline website: 20+ wireframe screens tested, semantic tokens with light and dark themes, a component library with variants and a page constructor; 26 screens across 4 breakpoints.",
+        "Customer data platform (CDP v1): designed on real API models and taken from MVP to production: profiles, loyalty, campaigns, support, monitoring."
+      ]
+    },
+    {
+      "name": "Cloudlessons / freelance",
+      "position": "Lead Web Designer",
+      "startDate": "2010",
+      "endDate": "2021",
+      "highlights": [
+        "Led design for education platforms with millions of monthly visits: product UI, dashboards, personal accounts, landing pages and email marketing."
+      ]
+    },
+    {
+      "name": "Freelance and agencies",
+      "position": "Graphic Designer",
+      "startDate": "1997",
+      "endDate": "2010",
+      "highlights": [
+        "Print and web for ad agencies, TV and radio companies and printing houses: branding, outdoor, layout and typography."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Wind2Ride",
+      "description": "A route planner for cyclists that reads the wind. Solo product, 2025 to present.",
+      "url": "https://wind2ride.app",
+      "highlights": [
+        "Took it from idea to the App Store and Google Play alone: research, design, an AI-assisted build, beta tests with in-app reports, releases.",
+        "600+ riders, 10 API integrations, 415+ commits, 9 releases; clubs and group rides."
+      ]
+    },
+    {
+      "name": "Tools and open source",
+      "description": "Skills, plugins and extensions built for real, repeated work.",
+      "url": "https://github.com/ikstro",
+      "highlights": [
+        "Muse: a Claude Code skill that finds a design direction and builds it within the design system; open source; designed this site.",
+        "Language Tutor: a Claude Code plugin and VS Code panel that turns coding sessions into language lessons; open source.",
+        "Chameleon and Follow the Path: Figma plugins on Figma Community. claude-commit: a VS Code extension."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "AI agents & harnesses",
+      "keywords": [
+        "Claude Code harnesses: agents, skills, hooks, MCP servers, RAG."
+      ]
+    },
+    {
+      "name": "Front end with AI agents",
+      "keywords": [
+        "I set the architecture, the structure and the checks; agents write the code (Vue, React Native, Astro, TypeScript)."
+      ]
+    },
+    {
+      "name": "Product design",
+      "keywords": [
+        "UX/UI, information architecture, data-heavy enterprise interfaces, booking flows, composition, typography."
+      ]
+    },
+    {
+      "name": "Design systems",
+      "keywords": [
+        "Design tokens, semantic theming, multi-brand and white-label systems, component libraries, Storybook."
+      ]
+    },
+    {
+      "name": "Design tools",
+      "keywords": [
+        "Figma, Token Studio, Photoshop, Illustrator, InDesign."
+      ]
+    },
+    {
+      "name": "Automation & work tracking",
+      "keywords": [
+        "Workflows, tasks and time: from self-built databases to Notion and trackers."
+      ]
+    },
+    {
+      "name": "Talking to AI",
+      "keywords": [
+        "Briefs with context and constraints that get the result in a few turns."
+      ]
+    },
+    {
+      "name": "Knowing what not to hand to AI",
+      "keywords": [
+        "AI where it pays off; a ready-made engine, a script or a drawing where it doesn't; animation only where it explains something."
+      ]
+    },
+    {
+      "name": "Owning the problem",
+      "keywords": [
+        "From the first question to the shipped thing; remote, across time zones, in English."
+      ]
+    },
+    {
+      "name": "Keywords",
+      "keywords": [
+        "Design Engineer",
+        "Design Technologist",
+        "Design Systems",
+        "Design Tokens",
+        "Token Studio",
+        "Figma",
+        "Storybook",
+        "Claude Code",
+        "AI agents",
+        "agentic workflows",
+        "MCP",
+        "RAG",
+        "prototyping",
+        "UX/UI",
+        "enterprise SaaS",
+        "airline and travel tech",
+        "booking engine",
+        "CDP",
+        "multi-brand theming",
+        "white label",
+        "Vue",
+        "React Native",
+        "Astro"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Ukrainian",
+      "fluency": "Native"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "B1–B2, working written communication"
+    }
+  ],
+  "meta": {
+    "canonical": "https://ikstro.com/cv/",
+    "version": "v1.0.0",
+    "lastModified": "2026-10-23T13:29:25"
+  }
+}
