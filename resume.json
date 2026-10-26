@@ -125,15 +125,15 @@
       ]
     },
     {
-      "name": "Product design",
+      "name": "Product logic & UX",
       "keywords": [
-        "UX/UI, information architecture, data-heavy enterprise interfaces, booking flows, composition, typography."
+        "Flows, scenarios, roles and states down to the data model; information architecture, data-heavy enterprise interfaces, booking flows."
       ]
     },
     {
-      "name": "Design systems",
+      "name": "UI & design systems",
       "keywords": [
-        "Design tokens, semantic theming, multi-brand and white-label systems, component libraries, Storybook."
+        "Composition, typography; design tokens, semantic theming, multi-brand and white-label systems, component libraries, Storybook."
       ]
     },
     {
@@ -149,9 +149,9 @@
       ]
     },
     {
-      "name": "Talking to AI",
+      "name": "Talking to AI — and arguing with it",
       "keywords": [
-        "Briefs with context and constraints that get the result in a few turns."
+        "Plan first, approved before any work starts; clear rules for what it may and may not do; I weigh its proposals, argue when they're wrong, and ask for options and methods, not just answers."
       ]
     },
     {
@@ -164,6 +164,12 @@
       "name": "Owning the problem",
       "keywords": [
         "From the first question to the shipped thing; remote, across time zones, in English."
+      ]
+    },
+    {
+      "name": "If a tool is missing, I build it",
+      "keywords": [
+        "A tutor for my English, a status bar for my limits, palettes for Figma — plugins and skills for my own repeated work."
       ]
     },
     {
@@ -206,12 +212,12 @@
     },
     {
       "language": "English",
-      "fluency": "B1–B2, working written communication"
+      "fluency": "B1, working written communication"
     }
   ],
   "meta": {
     "canonical": "https://ikstro.com/cv/",
     "version": "v1.0.0",
-    "lastModified": "2026-10-23T15:53:13"
+    "lastModified": "2026-10-24T04:46:12"
   }
 }

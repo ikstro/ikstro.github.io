@@ -97,20 +97,24 @@ Hard skills
 - AI agents & harnesses: Claude Code harnesses: agents, skills, hooks, MCP servers, RAG.
 - Front end with AI agents: I set the architecture, the structure and the checks; agents write the
   code (Vue, React Native, Astro, TypeScript).
-- Product design: UX/UI, information architecture, data-heavy enterprise interfaces, booking flows,
-  composition, typography.
-- Design systems: Design tokens, semantic theming, multi-brand and white-label systems, component
-  libraries, Storybook.
+- Product logic & UX: Flows, scenarios, roles and states down to the data model; information
+  architecture, data-heavy enterprise interfaces, booking flows.
+- UI & design systems: Composition, typography; design tokens, semantic theming, multi-brand and
+  white-label systems, component libraries, Storybook.
 - Design tools: Figma, Token Studio, Photoshop, Illustrator, InDesign.
 - Automation & work tracking: Workflows, tasks and time: from self-built databases to Notion and
   trackers.
 
 Soft skills
-- Talking to AI: Briefs with context and constraints that get the result in a few turns.
+- Talking to AI — and arguing with it: Plan first, approved before any work starts; clear rules for
+  what it may and may not do; I weigh its proposals, argue when they're wrong, and ask for options
+  and methods, not just answers.
 - Knowing what not to hand to AI: AI where it pays off; a ready-made engine, a script or a drawing
   where it doesn't; animation only where it explains something.
 - Owning the problem: From the first question to the shipped thing; remote, across time zones, in
   English.
+- If a tool is missing, I build it: A tutor for my English, a status bar for my limits, palettes for
+  Figma — plugins and skills for my own repeated work.
 
 Keywords: Design Engineer, Design Technologist, Design Systems, Design Tokens, Token Studio, Figma,
 Storybook, Claude Code, AI agents, agentic workflows, MCP, RAG, prototyping, UX/UI, enterprise SaaS,
@@ -122,4 +126,4 @@ LANGUAGES
 
 - Ukrainian — Native
 - Russian — Native
-- English — B1–B2, working written communication
+- English — B1, working written communication
