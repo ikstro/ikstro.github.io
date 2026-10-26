@@ -43,17 +43,17 @@
       "startDate": "2023",
       "summary": "Customer data platform and AI products for airlines. I lead the front-end architecture in a team of five and run design and delivery through AI agents.",
       "highlights": [
-        "Paximizer CDP (in production): Set up a Claude Code harness of 5 agents and 13 skills: research, an HTML prototype in two variants, a choice, production code on the architecture and the design system, AI QA.",
-        "Paximizer CDP (in production): Built the design system in code: 96 components in 3 tiers (base, domain, AI) and 1,309 Storybook stories, with no Figma in the loop.",
+        "Paximizer CDP (in production): Built the agentic pipeline from design to development — a Claude Code harness of 5 agents and 13 skills: research, an HTML prototype in two variants, a choice, production code on the design system, AI QA — so a feature goes from task to tested code in days, not weeks, with no Figma stage or separate design department.",
+        "Paximizer CDP (in production): Built the design system in code: 96 components in 3 tiers (base, domain, AI) and 1,309 Storybook stories.",
         "Paximizer CDP (in production): About half of the front end came out of my agent sessions (393 of 777 commits).",
-        "Paximizer CDP (in production): Built a tester skill that walks every flow as a real client, role by role: in the last comparison it caught 70% of what a human tester found, and the human missed 80% of what it found.",
+        "Paximizer CDP (in production): A tester skill walks every flow as a real client, role by role: in the last run it caught 70% of a human tester's finds, and the human missed 80% of its.",
         "NewSky, a booking engine for any airline (solo, in progress): Built solo with a harness of 5 agents and 32 skills; 1,368 tests.",
-        "NewSky, a booking engine for any airline (solo, in progress): One contract for any airline backend: the front end checks 28 capabilities and hides what the backend cannot serve.",
-        "NewSky, a booking engine for any airline (solo, in progress): An admin with per-airline component variants; an airline's whole style is one JSON file, so a new airline is styled in a day.",
+        "NewSky, a booking engine for any airline (solo, in progress): One contract for any airline backend: the front end checks 28 capabilities and hides what it cannot serve.",
+        "NewSky, a booking engine for any airline (solo, in progress): Per-airline component variants in the admin and the whole style in one JSON file: a new airline styled in a day instead of about a month of design and front-end work.",
         "NewSky, a booking engine for any airline (solo, in progress): Designing the next step: a front end that adapts to each passenger, composed from Paximizer CDP advice.",
-        "PAX Pitch, a presentation and content studio: Weekly topic research, a two-week content plan, decks with 65 slide types, narration and video, approvals in Telegram and cross-posting to paximizer.com (358 of 369 commits).",
-        "PAX-KB, a knowledge base for AI agents: Documented the legacy front end and back end, indexed 10,005 fragments into a RAG and built an MCP server with 8 tools for 27 agents.",
-        "paximizer.com: Moved the marketing site from Webflow to Astro and kept all 91 legacy URLs."
+        "PAX Pitch, a presentation and content studio: The weekly output of a marketing department, without the department: topic research, a two-week content plan, decks with 65 slide types, narration and video, approvals in Telegram and cross-posting to paximizer.com; a deck ordered in Telegram is ready in minutes, not days (358 of 369 commits).",
+        "PAX-KB, a knowledge base for AI agents: Documented the legacy front end and back end, indexed 10,005 fragments into a RAG and built an MCP server with 8 tools for 27 agents: any product question, business rule or line of code, answered in seconds, not hours.",
+        "paximizer.com: Site, promo kit and sales materials from one person, no agency; moved the site from Webflow to Astro with all 91 legacy URLs kept."
       ]
     },
     {
@@ -64,11 +64,10 @@
       "endDate": "2023",
       "summary": "Booking and customer-data products for airlines, designed in Figma.",
       "highlights": [
-        "WX booking engine: search, fares, seats, ancillaries and payment within airline constraints (PNR, SSR, fare rules, baggage); booking products used by 20+ airlines.",
-        "Moved brand customization from manual restyling to tokenized multi-brand theming; 400+ customizable components.",
-        "A redesigned booking flow showed +5% conversion in an A/B test (preliminary).",
-        "White-label airline website: 20+ wireframe screens tested, semantic tokens with light and dark themes, a component library with variants and a page constructor; 26 screens across 4 breakpoints.",
-        "Customer data platform (CDP v1): designed on real API models and taken from MVP to production: profiles, loyalty, campaigns, support, monitoring."
+        "WX booking engine: search, fares, seats, extras and payment within airline constraints (PNR, SSR, fare rules, baggage); booking products used by 20+ airlines; a redesigned flow: +5% conversion in an A/B test (preliminary).",
+        "Moved brand customization from manual restyling to tokenized multi-brand theming (400+ customizable components): a new airline's branding in days instead of weeks.",
+        "White-label airline website: 20+ wireframe screens tested, semantic tokens with light and dark themes, a component library with variants and a constructor that assembles a site in days; 26 screens, 4 breakpoints.",
+        "Customer data platform (CDP v1): designed on real API models and taken from MVP to production, the front end built once: profiles, loyalty, campaigns, support, monitoring."
       ]
     },
     {
@@ -96,17 +95,17 @@
       "description": "A route planner for cyclists that reads the wind. Solo product, 2025 to present.",
       "url": "https://wind2ride.app",
       "highlights": [
-        "Took it from idea to the App Store and Google Play alone: research, design, an AI-assisted build, beta tests with in-app reports, releases.",
+        "Took it from idea to the App Store and Google Play alone — a small product team's work in spare time: research, design, an AI-assisted build, beta tests with in-app reports, releases, support.",
         "600+ riders, 10 API integrations, 415+ commits, 9 releases; clubs and group rides."
       ]
     },
     {
       "name": "Tools and open source",
-      "description": "Skills, plugins and extensions built for real, repeated work.",
+      "description": "Skills, plugins and extensions built for real, repeated work — each removes a manual step for good.",
       "url": "https://github.com/ikstro",
       "highlights": [
-        "Muse: a Claude Code skill that finds a design direction and builds it within the design system; open source; designed this site.",
-        "Language Tutor: a Claude Code plugin and VS Code panel that turns coding sessions into language lessons; open source.",
+        "Muse: a Claude Code skill that finds a design direction and builds it within the design system; open source; it did a studio's design exploration for this site in one session.",
+        "Language Tutor: Claude Code plugin + VS Code panel: coding sessions become language lessons; open source.",
         "Chameleon and Follow the Path: Figma plugins on Figma Community. claude-commit: a VS Code extension."
       ]
     }
@@ -218,6 +217,6 @@
   "meta": {
     "canonical": "https://ikstro.com/cv/",
     "version": "v1.0.0",
-    "lastModified": "2026-10-26T11:41:39"
+    "lastModified": "2026-10-26T17:52:44"
   }
 }
