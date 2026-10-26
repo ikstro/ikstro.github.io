@@ -43,16 +43,16 @@
       "startDate": "2023",
       "summary": "Customer data platform and AI products for airlines. I lead the front-end architecture in a team of five and run design and delivery through AI agents.",
       "highlights": [
-        "Paximizer CDP (in production): Built the agentic pipeline from design to development — a Claude Code harness of 5 agents and 13 skills: research, an HTML prototype in two variants, a choice, production code on the design system, AI QA — so a feature goes from task to tested code in days, not weeks, with no Figma stage or separate design department.",
+        "Paximizer CDP (in production): Built the agentic pipeline from design to development — a Claude Code harness of 5 agents and 13 skills: research, an HTML prototype in two variants so the business picks the best solution, production code on the design system, AI QA — so a feature goes from task to tested code in days, not weeks, with no Figma stage or separate design department.",
         "Paximizer CDP (in production): Built the design system in code: 96 components in 3 tiers (base, domain, AI) and 1,309 Storybook stories.",
         "Paximizer CDP (in production): About half of the front end came out of my agent sessions (393 of 777 commits).",
-        "Paximizer CDP (in production): A tester skill walks every flow as a real client, role by role: in the last run it caught 70% of a human tester's finds, and the human missed 80% of its.",
+        "Paximizer CDP (in production): A tester skill walks every flow as a real client, role by role — testing went from weeks to hours; in the last run it caught 70% of a human tester's finds, and the human missed 80% of its.",
         "NewSky, a booking engine for any airline (solo, in progress): Built solo with a harness of 5 agents and 32 skills; 1,368 tests.",
         "NewSky, a booking engine for any airline (solo, in progress): One contract for any airline backend: the front end checks 28 capabilities and hides what it cannot serve.",
-        "NewSky, a booking engine for any airline (solo, in progress): Per-airline component variants in the admin and the whole style in one JSON file: a new airline styled in a day instead of about a month of design and front-end work.",
+        "NewSky, a booking engine for any airline (solo, in progress): Per-airline component variants in the admin and the whole style in one JSON file: a new airline styled in a day instead of about a month; swapping components for tests raises conversion.",
         "NewSky, a booking engine for any airline (solo, in progress): Designing the next step: a front end that adapts to each passenger, composed from Paximizer CDP advice.",
-        "PAX Pitch, a presentation and content studio: The weekly output of a marketing department, without the department: topic research, a two-week content plan, decks with 65 slide types, narration and video, approvals in Telegram and cross-posting to paximizer.com; a deck ordered in Telegram is ready in minutes, not days (358 of 369 commits).",
-        "PAX-KB, a knowledge base for AI agents: Documented the legacy front end and back end, indexed 10,005 fragments into a RAG and built an MCP server with 8 tools for 27 agents: any product question, business rule or line of code, answered in seconds, not hours.",
+        "PAX Pitch, a presentation and content studio: The weekly output of a marketing department, without the department: research, a two-week content plan, decks with 65 slide types, narration and video, Telegram approvals, cross-posting to paximizer.com, all from a web admin; decks generated on the server by an AI model in minutes, not days (358 of 369 commits).",
+        "PAX-KB, a knowledge base for AI agents: Documented the legacy front end and back end, indexed 10,005 fragments into a RAG and built an MCP server with 8 tools for 27 agents: any product question, business rule or line of code, answered in seconds, not hours — less training for colleagues, fewer tokens.",
         "paximizer.com: Site, promo kit and sales materials from one person, no agency; moved the site from Webflow to Astro with all 91 legacy URLs kept."
       ]
     },
@@ -64,9 +64,9 @@
       "endDate": "2023",
       "summary": "Booking and customer-data products for airlines, designed in Figma.",
       "highlights": [
-        "WX booking engine: search, fares, seats, extras and payment within airline constraints (PNR, SSR, fare rules, baggage); booking products used by 20+ airlines; a redesigned flow: +5% conversion in an A/B test (preliminary).",
+        "WX booking engine: search, fares, seats, extras and payment within airline constraints (PNR, SSR, fare rules, baggage); used by 20+ airlines; a redesigned flow: +5% conversion in an A/B test (preliminary).",
         "Moved brand customization from manual restyling to tokenized multi-brand theming (400+ customizable components): a new airline's branding in days instead of weeks.",
-        "White-label airline website: 20+ wireframe screens tested, semantic tokens with light and dark themes, a component library with variants and a constructor that assembles a site in days; 26 screens, 4 breakpoints.",
+        "White-label airline website, a constructor kit: 20+ wireframe screens tested, semantic tokens with light and dark themes, block variants that assemble and style any airline's site in days; 26 screens, 4 breakpoints.",
         "Customer data platform (CDP v1): designed on real API models and taken from MVP to production, the front end built once: profiles, loyalty, campaigns, support, monitoring."
       ]
     },
@@ -217,6 +217,6 @@
   "meta": {
     "canonical": "https://ikstro.com/cv/",
     "version": "v1.0.0",
-    "lastModified": "2026-10-26T17:52:44"
+    "lastModified": "2026-10-26T19:15:48"
   }
 }
